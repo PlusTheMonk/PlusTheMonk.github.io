@@ -16,7 +16,7 @@ title: Research
 -  W. Dempsey, P. McCullagh: [The Pilgrim's Process](http://arxiv.org/abs/1412.1490)
 -  W. Dempsey, P. McCullagh: [Weak continuity of predictive distribution for Markov survival processes](http://arxiv.org/abs/1411.5715). Code available [here](https://github.com/wdempsey/markov_survival)
 -  W. Dempsey, P. McCullagh: [Survival models and health sequences](http://arxiv.org/abs/1301.2699) . Code available [here](https://github.com/wdempsey/revival_paper)
--  W. Dempsey, P. McCullagh: Vital variables and survival processes
+-  W. Dempsey, P. McCullagh: [Vital variables and survival processes](http://arxiv.org/abs/1601.04841)
 
 ### Accepted Papers
 
