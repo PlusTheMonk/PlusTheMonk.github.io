@@ -5,6 +5,7 @@ title: Research
 
 ### In Preparation / Manuscripts
 
+-  W. Dempsey, H. Crane: [Edge exchangeable models for network data](http://arxiv.org/abs/1603.04571)
 -  W. Dempsey, P. Liao, S. Murphy: Sample size calculations for stratified micro-randomized trials in mHealth
 -  W. Dempsey, H. Crane: [Atypical scaling behavior persists in real world interaction networks](http://arxiv.org/abs/1509.08184)
 -  W. Dempsey: Effective Alignment of Health Measurements for Joint Modeling
