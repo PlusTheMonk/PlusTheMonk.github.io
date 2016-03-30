@@ -4,7 +4,7 @@ title: Presentations
 ---
 
 ### Posters/Presentations
-
+- [From AIs to JITAIs](https://drive.google.com/open?id=0B5rDVdyXJbJgUVgzaERoMFV5QW8) (SBM Annual Meeting, March 2016)
 - [Sample size calculations for stratified micro-randomized trials in mHealth](https://drive.google.com/file/d/0B5rDVdyXJbJgaEdxNWJ3cFVkUzA/view?usp=sharing) (ENAR, March 2016)
 -  [Survival models and Markov survival processes](https://drive.google.com/file/d/0B5rDVdyXJbJgN1FJOEdlNGV0SnM/view?usp=sharing) (Georgia Tech, November 2015)
 -  [Joint modeling of longitudinal and time-to-event data in mHealth](https://drive.google.com/file/d/0B5rDVdyXJbJgV0M1UlBqc3FhNkE/view?usp=sharing) (Penn State, October 2015)
