@@ -5,11 +5,11 @@ title: Research
 
 ### In Preparation / Manuscripts
 -  W. Dempsey, P. Liao, S. Murphy: Sample size calculations for stratified micro-randomized trials in mHealth
+-  W. Dempsey, A. Moreno, J. Rehg, S. Murphy: The survival HMM: an intrepretable, multimodal event-prediction model for mHealth
+-  H. Crane, Dempsey, W.: Relational exchangeability
 
 ### Submitted Papers
-
 -  H. Crane, Dempsey, W.: [Edge exchangeable models for network data](https://www.researchgate.net/publication/299091392_Edge_exchangeable_models_for_network_data)
--  H. Crane, Dempsey, W.: [Community detection for interaction networks](http://arxiv.org/abs/1509.09254)
 -  H. Crane, Dempsey, W.: [A Framework for Statistical Network Modeling](https://www.researchgate.net/publication/296349606_A_FRAMEWORK_FOR_STATISTICAL_NETWORK_MODELING)
 -  W. Dempsey, P. McCullagh: [The Pilgrim's Process](http://arxiv.org/abs/1412.1490)
 -  W. Dempsey, P. McCullagh: [Weak continuity of predictive distribution for Markov survival processes](http://arxiv.org/abs/1411.5715). Code available [here](https://github.com/wdempsey/markov_survival)
@@ -24,4 +24,5 @@ title: Research
 
 ### Technical Reports
 
--  W. Dempsey, H. Crane: [Atypical scaling behavior persists in real world interaction networks](http://arxiv.org/abs/1509.08184)
+-  H. Crane, Dempsey, W.: [Atypical scaling behavior persists in real world interaction networks](http://arxiv.org/abs/1509.08184)
+-  H. Crane, Dempsey, W.: [Community detection for interaction networks](http://arxiv.org/abs/1509.09254)
