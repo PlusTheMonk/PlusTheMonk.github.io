@@ -6,7 +6,7 @@ title: Research
 ### In Preparation / Manuscripts
 -  W. Dempsey, P. Liao, S. Murphy: Sample size calculations for stratified micro-randomized trials in mHealth
 -  W. Dempsey, A. Moreno, J. Rehg, S. Murphy: The survival HMM: an intrepretable, multimodal event-prediction model for mHealth
--  H. Crane, Dempsey, W.: Relational exchangeability
+-  H. Crane, Dempsey, W.: [Relational exchangeability](http://arxiv.org/abs/1607.06762)
 
 ### Submitted Papers
 -  H. Crane, Dempsey, W.: [Edge exchangeable models for network data](https://www.researchgate.net/publication/299091392_Edge_exchangeable_models_for_network_data)
