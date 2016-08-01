@@ -4,6 +4,7 @@ title: Presentations
 ---
 
 ### Posters/Presentations
+- [Sample size calculations for stratified micro-randomized trials in mHealth](https://drive.google.com/file/d/0B5rDVdyXJbJgaEdxNWJ3cFVkUzA/view?usp=sharing) (JSM, August 2016)
 - [Edge exchangeable models for network data](https://drive.google.com/open?id=0B5rDVdyXJbJgVjRtS0YwWjZOc1U) (Michigan networks student reading group, April 2016)
 - [From AIs to JITAIs](https://drive.google.com/open?id=0B5rDVdyXJbJgUVgzaERoMFV5QW8) (SBM Annual Meeting, March 2016)
 - [Sample size calculations for stratified micro-randomized trials in mHealth](https://drive.google.com/file/d/0B5rDVdyXJbJgaEdxNWJ3cFVkUzA/view?usp=sharing) (ENAR, March 2016)
