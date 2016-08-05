@@ -11,8 +11,8 @@ title: Research
 ### Submitted Papers
 -  H. Crane, Dempsey, W.: [Edge exchangeable models for network data](https://www.researchgate.net/publication/299091392_Edge_exchangeable_models_for_network_data)
 -  H. Crane, Dempsey, W.: [A Framework for Statistical Network Modeling](https://www.researchgate.net/publication/296349606_A_FRAMEWORK_FOR_STATISTICAL_NETWORK_MODELING)
--  W. Dempsey, P. McCullagh: [The Pilgrim's Process](http://arxiv.org/abs/1412.1490)
--  W. Dempsey, P. McCullagh: [Weak continuity of predictive distribution for Markov survival processes](http://arxiv.org/abs/1411.5715). Code available [here](https://github.com/wdempsey/markov_survival)
+-  W. Dempsey, P. McCullagh: [The Pilgrim's Process](https://www.researchgate.net/publication/269116563_The_pilgrim_process)
+-  W. Dempsey, P. McCullagh: [Weak continuity of predictive distribution for Markov survival processes](https://www.researchgate.net/publication/268689765_Weak_continuity_of_predictive_distribution_for_Markov_survival_processes). Code available [here](https://github.com/wdempsey/markov_survival)
 -  W. Dempsey, P. McCullagh: [Survival models and health sequences](http://arxiv.org/abs/1301.2699) . Code available [here](https://github.com/wdempsey/revival_paper)
 -  W. Dempsey, P. McCullagh: [Vital variables and survival processes](http://arxiv.org/abs/1601.04841)
 
