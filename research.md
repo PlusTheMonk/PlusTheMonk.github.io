@@ -3,6 +3,8 @@ layout: page
 title: Research
 ---
 
+View my [Google scholar profile](https://scholar.google.com/citations?user=TJ5P970AAAAJ&hl=en).
+
 ### Submitted Papers
 -  W. Dempsey, P. Liao, S. Murphy: [The stratified micro-randomized trial design: sample size considerations for testing nested causal effects of time-varying treatments](https://arxiv.org/abs/1711.03587)
 -  H. Crane, W. Dempsey: [Relational exchangeability](https://www.researchgate.net/publication/305616246_Relational_exchangeability)
