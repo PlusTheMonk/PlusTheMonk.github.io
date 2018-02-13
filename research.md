@@ -6,7 +6,7 @@ title: Research
 View my [Google scholar profile](https://scholar.google.com/citations?user=TJ5P970AAAAJ&hl=en).
 
 ### Submitted Papers
--  W. Dempsey, P. Liao, S. Murphy: [The stratified micro-randomized trial design: sample size considerations for testing nested causal effects of time-varying treatments](https://arxiv.org/abs/1711.03587)
+-  W. Dempsey, P. Liao, S. Murphy: [The stratified micro-randomized trial design: sample size considerations for testing nested causal effects of time-varying treatments](https://www.researchgate.net/publication/321024908_The_stratified_micro-randomized_trial_design_sample_size_considerations_for_testing_nested_causal_effects_of_time-varying_treatments)
 -  H. Crane, W. Dempsey: [Relational exchangeability](https://www.researchgate.net/publication/305616246_Relational_exchangeability)
 -  H. Crane, W. Dempsey: [A Framework for Statistical Network Modeling](https://www.researchgate.net/publication/296349606_A_FRAMEWORK_FOR_STATISTICAL_NETWORK_MODELING)
 -  W. Dempsey, P. McCullagh: [The Pilgrim's Process](https://www.researchgate.net/publication/269116563_The_pilgrim_process)
